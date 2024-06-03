@@ -1,4 +1,4 @@
-Adobe Air est un logiciel de Harman by Samsung qui sert à faire fonctionner des logiciels
+Adobe Air is software from Harman by Samsung that is used to run software
 https://airsdk.harman.com/runtime
 
 
